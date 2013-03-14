@@ -1,4 +1,4 @@
-app2
+app2 By Pullak
 ====
 
-Multi page
+Multi page Jquery Mobile example.
